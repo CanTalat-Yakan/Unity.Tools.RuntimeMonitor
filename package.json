@@ -1,0 +1,62 @@
+{
+  "name": "com.unityessentials.runtimemonitoring",
+  "version": "1.0.0",
+  "displayName": "UnityEssentials RuntimeMonitoring",
+  "description": "This is a part of the UnityEssentials Ecosystem.\n\nRuntime Monitoring is an easy way for you to debug the state of your C# classes and objects during runtime.",
+  "unity": "2022.1",
+  "unityRelease": null,
+  "dependencies": {
+    "com.unityessentials.core": "1.0.0"
+  },
+  "keywords": [
+    "monitoring",
+    "runtime",
+    "debugging",
+    "debug",
+    "UI",
+    "source",
+    "utility",
+    "helper"
+  ],
+  "author": {
+    "name": "Unity Essentials",
+    "email": "",
+    "url": ""
+  },
+  "documentationUrl": "https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring/blob/main/README.md",
+  "changelogUrl": "https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/JohnBaracuda/com.baracuda.runtime-monitoring/blob/main/LICENSE.md",
+  "samples": [
+    {
+      "displayName": "Documentation",
+      "description": "Contains documentation in multiple file formats: .md, .html, .pdf, .jpg and .png.",
+      "path": "Samples~/Documentation"
+    },
+    {
+      "displayName": "Example Scene",
+      "description": "Contains an example scene with a FPS controller.",
+      "path": "Samples~/Example"
+    },
+    {
+      "displayName": "Example Modules",
+      "description": "Import example modules to monitor FPS, Logs or System Stats.",
+      "path": "Samples~/Modules"
+    },
+    {
+      "displayName": "IMGUI Resources",
+      "description": "Import IMGUI based UI Assets.",
+      "path": "Samples~/IMGUI"
+    },
+    {
+      "displayName": "Text Mesh Pro Resources",
+      "description": "Import TextMeshPro based UI Assets.",
+      "path": "Samples~/TextMeshPro"
+    },
+    {
+      "displayName": "UI Toolkit Resources",
+      "description": "Import UIToolkit based UI Assets.",
+      "path": "Samples~/UIToolkit"
+    }
+  ],
+  "hideInEditor": true
+}
